@@ -14,8 +14,12 @@ I update it regularly as I work through new problems and improve my problem-solv
 
 ## Problems List
 
-| Problem Name | Link |
-|--------------|------|
-| Two Sum II | [View Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+|   | Problem Name | Link |
+|---|--------------|------|
+|167|Two Sum II | [View Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+|344|Reverse String | [View Problem](https://leetcode.com/problems/reverse-string/description/) |
+|977|Square of Sorted Array | [View Problem](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
+|680|Valid Palindrome II | [View Problem](https://leetcode.com/problems/valid-palindrome-ii/description/) |
+
 
 
