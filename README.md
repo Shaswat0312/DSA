@@ -22,6 +22,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 |125|Valid Palindrome  | [View Problem](https://leetcode.com/problems/valid-palindrome/) |
 |680 |Valid Palindrome II  | [View Problem](https://leetcode.com/problems/valid-palindrome-ii/description/) |
 |26 |Remove Duplicates from Sorted Array | [View Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
+|88 |Merge Sorted Array | [View Problem](https://leetcode.com/problems/merge-sorted-array/description/) |
 
 
 
