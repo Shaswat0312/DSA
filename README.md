@@ -25,6 +25,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 |88 |Merge Sorted Array | [View Problem](https://leetcode.com/problems/merge-sorted-array/description/) |
 |1  | Two Sum           |[View Problem](https://leetcode.com/problems/two-sum/description/) |
 | 15| Three Sum     | [View Problem](https://leetcode.com/problems/3sum/description/) |
+|75 | Dutch Flag Problem | [View Problem](https://leetcode.com/problems/sort-colors/description/) |
 
 
 
