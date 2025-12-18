@@ -26,6 +26,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 |1  | Two Sum           |[View Problem](https://leetcode.com/problems/two-sum/description/) |
 | 15| Three Sum     | [View Problem](https://leetcode.com/problems/3sum/description/) |
 |75 | Dutch Flag Problem | [View Problem](https://leetcode.com/problems/sort-colors/description/) |
+|2486| Append Characters to String to Make Subsequence | [View Problem](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/)|
 
 
 
