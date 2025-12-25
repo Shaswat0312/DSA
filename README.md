@@ -31,5 +31,13 @@ I update it regularly as I work through new problems and improve my problem-solv
 |11 | 2486 | Append Characters to String to Make Subsequence | [View Problem](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/) |
 
 
+## 📅 Week 2
+| # | Problem ID | Problem Name | Link |
+|---|------------|--------------|------|
+| 1 | 392 | Is Subsequence | [View Problem](https://leetcode.com/problems/is-subsequence/) |
+
+
+
+
 
 
