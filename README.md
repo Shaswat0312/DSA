@@ -47,6 +47,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shaswat0312/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shaswat0312/DSA/tree/master/0283-move-zeroes) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shaswat0312/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -60,5 +61,10 @@ I update it regularly as I work through new problems and improve my problem-solv
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shaswat0312/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shaswat0312/DSA/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shaswat0312/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
