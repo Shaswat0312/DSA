@@ -48,6 +48,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shaswat0312/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Shaswat0312/DSA/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -56,4 +57,9 @@ I update it regularly as I work through new problems and improve my problem-solv
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shaswat0312/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Shaswat0312/DSA/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shaswat0312/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
