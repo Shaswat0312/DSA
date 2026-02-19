@@ -1,0 +1,19 @@
+class Solution {
+    public int appendCharacters(String s, String t) {
+        int i = 0,
+            j = 0;
+        int n = t.length();
+
+        while(i<s.length() && j<t.length()){
+            if(s.charAt(i)==t.charAt(j)){
+                i++;
+                j++;
+            }
+            else{
+                i++;
+            }
+        }
+         return (n-j);
+      
+    }
+}
