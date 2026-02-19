@@ -48,16 +48,19 @@ I update it regularly as I work through new problems and improve my problem-solv
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shaswat0312/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shaswat0312/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shaswat0312/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shaswat0312/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shaswat0312/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shaswat0312/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shaswat0312/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shaswat0312/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shaswat0312/DSA/tree/master/0202-happy-number) |
 ## Math
 |  |
