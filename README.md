@@ -49,6 +49,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shaswat0312/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Shaswat0312/DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Shaswat0312/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -62,4 +63,21 @@ I update it regularly as I work through new problems and improve my problem-solv
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shaswat0312/DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Shaswat0312/DSA/tree/master/0268-missing-number) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shaswat0312/DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shaswat0312/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shaswat0312/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shaswat0312/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
