@@ -36,6 +36,16 @@ I update it regularly as I work through new problems and improve my problem-solv
 |---|------------|--------------|------|
 | 1 | 392 | Is Subsequence | [View Problem](https://leetcode.com/problems/is-subsequence/) |
 
+## 📅 Week 3
+| # | Problem ID | Problem Name | Link |
+|---|------------|--------------|------|
+| 1 | 141 | Linked List Cycle | [View Problem](https://leetcode.com/problems/linked-list-cycle/) |
+| 2 | 142 | Linked List Cycle II | [View Problem](https://leetcode.com/problems/linked-list-cycle-ii/) |
+| 3 | 143 | Reorder List | [View Problem](https://leetcode.com/problems/reorder-list/) |
+| 4 | 234 | Palindrome Linked List | [View Problem](https://leetcode.com/problems/palindrome-linked-list/) |
+| 5 | 202 | Happy Number | [View Problem](https://leetcode.com/problems/happy-number/) |
+| 6 | - | Split a Linked List| [View Problem](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1) |
+
 ## Bitwise Operator
 | # | Problem Name | 
 |---|--------------|
