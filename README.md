@@ -50,4 +50,6 @@ I update it regularly as I work through new problems and improve my problem-solv
 | # | Problem Name | 
 |---|--------------|
 | 1 |Even and Odd | 
+| 2 |Unique element in an array| 
+
 
