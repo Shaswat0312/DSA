@@ -52,6 +52,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 | # | Problem ID | Problem Name | Link |
 |---|------------|--------------|------|
 | 1 | 56 | Merge Intervals | [View Problem](https://leetcode.com/problems/merge-intervals/) |
+| 2 | 3169 | Count Days Without Meetings | [View Problem](https://leetcode.com/problems/count-days-without-meetings/description/) |
 
 
 ## Bitwise Operator
