@@ -35,6 +35,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 | # | Problem ID | Problem Name | Link |
 |---|------------|--------------|------|
 | 1 | 392 | Is Subsequence | [View Problem](https://leetcode.com/problems/is-subsequence/) |
+| 2 | 283 | Move Zeroes | [View Problem](https://leetcode.com/problems/move-zeroes/description/) |
 
 ## 📅 Week 3
 | # | Problem ID | Problem Name | Link |
@@ -45,6 +46,13 @@ I update it regularly as I work through new problems and improve my problem-solv
 | 4 | 234 | Palindrome Linked List | [View Problem](https://leetcode.com/problems/palindrome-linked-list/) |
 | 5 | 202 | Happy Number | [View Problem](https://leetcode.com/problems/happy-number/) |
 | 6 | - | Split a Linked List| [View Problem](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1) |
+
+
+## 📅 Week 4
+| # | Problem ID | Problem Name | Link |
+|---|------------|--------------|------|
+| 1 | 56 | Merge Intervals | [View Problem](https://leetcode.com/problems/merge-intervals/) |
+
 
 ## Bitwise Operator
 | # | Problem Name | 
