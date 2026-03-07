@@ -56,7 +56,6 @@ I update it regularly as I work through new problems and improve my problem-solv
 | 3 | 57 | Insert Interval | [View Problem](https://leetcode.com/problems/insert-interval/description/) |
 | 4 | GFG | Meeting Rooms || | [View Problem](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) |
 | 5 | GFG | N Meetings in One Room | [View Problem](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) |
-| 6 | 2095 | Delete the Middle Node of a Linked List | [View Problem](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) |
 
 
 ## Bitwise Operator
