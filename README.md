@@ -64,7 +64,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 | # | Problem ID | Problem Name | Link |
 |---|------------|--------------|------|
 | 1 | 203 | Remove Linked List Elements | [View Problem](https://leetcode.com/problems/remove-linked-list-elements/description/) |
-| 2 |  | | [View Problem](https://leetcode.com/problems/count-days-without-meetings/description/) |
+| 2 | 92 | Reverse Linked List II | [View Problem](https://leetcode.com/problems/reverse-linked-list-ii/description/) |
 | 3 |  | | [View Problem](https://leetcode.com/problems/insert-interval/description/) |
 | 4 |  | | [View Problem](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) |
 | 5 |  |  | [View Problem](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) |
