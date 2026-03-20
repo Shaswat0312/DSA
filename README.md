@@ -65,11 +65,10 @@ I update it regularly as I work through new problems and improve my problem-solv
 |---|------------|--------------|------|
 | 1 | 203 | Remove Linked List Elements | [View Problem](https://leetcode.com/problems/remove-linked-list-elements/description/) |
 | 2 | 92 | Reverse Linked List II | [View Problem](https://leetcode.com/problems/reverse-linked-list-ii/description/) |
-| 3 | 203 | Remove Linked |List Elements [View Problem](https://leetcode.com/problems/remove-linked-list-elements/) |
-| 4 | 1721 | Swapping Nodes in a Linked List | [View Problem](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) |
-| 5 |  |  | [View Problem](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) |
-| 6 |  |  | [View Problem](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) |
-| 7 |  |  | [View Problem](https://leetcode.com/problems/reverse-linked-list/description/) |
+| 3 | 1721 | Swapping Nodes in a Linked List | [View Problem](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) |
+| 4 | 328  | Odd Even Linked List  | [View Problem](https://leetcode.com/problems/odd-even-linked-list/description/) |
+| 5 |  |  | [View Problem](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) |
+| 6 |  |  | [View Problem](https://leetcode.com/problems/reverse-linked-list/description/) |
 
 
 
