@@ -70,6 +70,14 @@ I update it regularly as I work through new problems and improve my problem-solv
 | 5 | 725 | Split Linked List in Parts | [View Problem](https://leetcode.com/problems/split-linked-list-in-parts/description/) |
 | 6 | 24  | Swap Nodes in Pairs | [View Problem](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |
 
+## 📅 Week 6
+| # | Problem ID | Problem Name | Link |
+|---|------------|--------------|------|
+| 1 | GFG | Ceiling in a Sorted Array | [View Problem](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) |
+| 2 | 34 | Find First and Last Position of Element in Sorted Array | [View Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |
+| 3 | 852 | Peak Index in a Mountain Array | [View Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |
+
+
 
 
 ## Bitwise Operator
