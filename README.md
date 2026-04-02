@@ -87,3 +87,15 @@ I update it regularly as I work through new problems and improve my problem-solv
 | 2 |Unique element in an array| 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shaswat0312/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shaswat0312/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
