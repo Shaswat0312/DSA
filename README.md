@@ -77,6 +77,10 @@ I update it regularly as I work through new problems and improve my problem-solv
 | 2 | 34 | Find First and Last Position of Element in Sorted Array | [View Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |
 | 3 | 852 | Peak Index in a Mountain Array | [View Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |
 | 4 | 153 | Find Minimum in Rotated Sorted Array | [View Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
+| 5 |  33 | Search in Rotated Sorted Array  | [View Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
+| 6 |  GFG | Floor in a Sorted Array  | [View Problem](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) |
+| 7 |  875 | Koko Eating Bananas  | [View Problem](https://leetcode.com/problems/koko-eating-bananas/description/) |
+
 
 
 
@@ -88,15 +92,3 @@ I update it regularly as I work through new problems and improve my problem-solv
 | 2 |Unique element in an array| 
 
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shaswat0312/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-## Binary Search
-|  |
-| ------- |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shaswat0312/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-<!---LeetCode Topics End-->
