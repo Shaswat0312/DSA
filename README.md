@@ -80,6 +80,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 | 5 |  33 | Search in Rotated Sorted Array  | [View Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
 | 6 |  GFG | Floor in a Sorted Array  | [View Problem](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) |
 | 7 |  875 | Koko Eating Bananas  | [View Problem](https://leetcode.com/problems/koko-eating-bananas/description/) |
+| 8 |  GFG | Aggressive Cows  | [View Problem](https://www.geeksforgeeks.org/problems/aggressive-cows/1) |
 
 
 
