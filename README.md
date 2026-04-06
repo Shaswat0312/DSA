@@ -82,6 +82,7 @@ I update it regularly as I work through new problems and improve my problem-solv
 | 7 |  875 | Koko Eating Bananas  | [View Problem](https://leetcode.com/problems/koko-eating-bananas/description/) |
 | 8 |  GFG | Aggressive Cows  | [View Problem](https://www.geeksforgeeks.org/problems/aggressive-cows/1) |
 | 9 |  278 | First Bad Version  | [View Problem](https://leetcode.com/problems/first-bad-version/) |
+| 10 |  GFG |  Allocate Minimum Pages| [View Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) |
 
 
 
