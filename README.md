@@ -95,3 +95,15 @@ I update it regularly as I work through new problems and improve my problem-solv
 | 2 |Unique element in an array| 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shaswat0312/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shaswat0312/DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
